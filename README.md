@@ -1,0 +1,1 @@
+This Gerber  file contains the pcb design for atmospheric air quality monitoring circuit, which contain the sensors; MQ135, MQ136, TGS2600 for the detection. It is controlled with a ATMEGA328P micro controller (Arduino Uno) for the controlling of the circuit.
